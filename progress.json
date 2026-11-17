@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:44:23.383Z",
+  "generated_at": "2026-11-17T17:30:33.595Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -37,6 +37,17 @@
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-11-14T04:44:22.903Z",
       "last_pushed_at": "2026-11-14T04:44:22.903Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-11-17T17:30:32.568Z",
+      "last_pushed_at": "2026-11-17T17:30:32.568Z"
     }
   }
 }
